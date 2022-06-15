@@ -60,4 +60,4 @@ section::before {
 
 Note: This project is aimed to practice parallax scorlling effect. Therefore, the navigation links will not lead to any external links nor pages. Also, the project is not resized for different screen sizes, it is best viewed on a **desktop/laptop screen**.  
 
-**Click here to try out the parallax effect: [Project Demo]()**
+**Click here to try out the parallax effect: [Project Demo](https://lihuicham.github.io/night-mountain-parallax/)**
